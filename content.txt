@@ -16,3 +16,4 @@ Set up a MongoDB database and update the connection string in server.js.
 Run the server using node server.js.
 Open the index.html file in a web browser to access the registration form.
 Enjoy exploring and integrating this registration form into your web development projects!
+use local host:3000
